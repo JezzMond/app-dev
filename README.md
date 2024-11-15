@@ -11,3 +11,6 @@ My First Repository
 - Second item
 - Third item
 
+*italicized text*
+
+[title](https://www.example.com)
